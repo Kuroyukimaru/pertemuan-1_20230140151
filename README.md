@@ -13,6 +13,41 @@
 <img width="382" height="184" alt="image" src="https://github.com/user-attachments/assets/fac1e3ce-d2a8-4569-84c2-83037b5932ad" />
 <img width="1080" height="385" alt="image" src="https://github.com/user-attachments/assets/a5d6fdef-c6ed-4237-9b31-c14b1fe4ee7f" />
 
+pertemuan 5
+database role admin
+<img width="1528" height="302" alt="image" src="https://github.com/user-attachments/assets/ecd30b1d-a915-42a4-80b6-d5f25be57a1e" />
+
+Nambah produk
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/904b56e7-ebb8-4966-9798-95afc2dd5156" />
+
+setelah di tambah
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d564d67b-6036-4c0f-85a8-c497b2f4d69b" />
+
+edit
+sebelum
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b57fa050-1c78-45d2-a11c-f0fd4e4aa509" />
+
+hasil setelah di edit
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/79a214cd-a2fa-4f75-b93e-b9e4062a6bbb" />
+
+lihat salah satu produk
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/41caf9ea-4783-4f53-988e-429b1d14af74" />
+
+Hapus
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b52dffce-3ee3-4d6b-8854-3e34ac765042" />
+
+setelah di hapus
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b7506886-721f-4970-9947-17ca1d514636" />
+
+todo
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/000b64d4-23fe-4ea8-ad3c-9b66edc80a7d" />
+
+jika login pakai role user
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1caa45b3-d91a-4b2c-ac65-dd822540d907" />
+
+
+
+
 
 
 
