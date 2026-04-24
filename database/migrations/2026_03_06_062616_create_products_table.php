@@ -14,6 +14,8 @@ return new class extends Migration
     Schema::create('products', function (Blueprint $table) {
         $table->id();
         $table->foreignId('user_id')->constrained()->onDelete('cascade');
+        // RELASI KE CATEGORIES Setiap product punya category, Jika category dihapus → product ikut terhapus (cascade)
+        $table->foreignId('category_id')->constrained()->onDelete('cascade'); 
         $table->string('name');
         $table->integer('qty');
         $table->decimal('price',10,2);
