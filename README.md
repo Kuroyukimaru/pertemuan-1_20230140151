@@ -45,6 +45,11 @@ todo
 jika login pakai role user
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1caa45b3-d91a-4b2c-ac65-dd822540d907" />
 
+pertemuan 7
+ada edit dan hapus kalo milih salah satu product
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e4cf4d79-fc2b-483a-b5a2-b8f2f479fbab" />
+
+
 
 
 
