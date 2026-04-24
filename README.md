@@ -49,11 +49,22 @@ pertemuan 7
 ada edit dan hapus kalo milih salah satu product
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e4cf4d79-fc2b-483a-b5a2-b8f2f479fbab" />
 
+UCP1
+Data category:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/703d3ca9-2db9-4bbf-996e-3692d5e2fe1b" />
 
+Tambah Category:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/44485280-24f5-4fee-af70-83a85a601627" />
 
+ada tambahan category pas di halaman tambah product:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/81fda0b6-f651-4805-a12b-e885ee1aff18" />
 
+Gates gates untuk memberikan rules akses untuk ke Category:
+- Admin
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/51a4db65-019f-443c-9dec-c2bbc0b11f2d" />
 
-
+- user
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/af4a2e04-5ad4-419d-9ce2-8ef4f188afcd" />
 
 
 
